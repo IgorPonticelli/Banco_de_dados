@@ -1,0 +1,142 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/igor.ponticelli/Desktop/Banco_de_dados/TesteBench
+T_opt
+!s110 1695903650
+V[1BS`Qm5C5ZJN`Qb]L4S;3
+04 9 2 work testbench tb 1
+=1-000ae431a4f1-65156fa1-91a72-1817
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc=lprn
+tCvgOpt 0
+n@_opt
+OL;O;2021.3;73
+R0
+Eff_d_s
+Z1 w1695903430
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 25
+R0
+Z4 8ff_d_subida.vhd
+Z5 Fff_d_subida.vhd
+l0
+L4 1
+V5RP]hzXI;0bBP3J3:5X^_0
+!s100 ?o:c`^`dA0VlS6[RUWeXB0
+Z6 OL;C;2021.3;73
+32
+Z7 !s110 1695904027
+!i10b 1
+Z8 !s108 1695904027.000000
+Z9 !s90 -reportprogress|300|ff_d_subida.vhd|
+Z10 !s107 ff_d_subida.vhd|
+!i113 0
+Z11 tExplicit 1 CvgOpt 0
+Aff_subida
+R2
+R3
+Z12 DEx4 work 6 ff_d_s 0 22 5RP]hzXI;0bBP3J3:5X^_0
+!i122 25
+l19
+Z13 L15 18
+V]MoLm`=CMGmB5bHHHT4ld3
+!s100 =@C]Rb`JaFi_Mok9z;<@82
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 0
+R11
+Elatch_d
+Z14 w1695903432
+R2
+R3
+!i122 24
+R0
+Z15 8latch.vhd
+Z16 Flatch.vhd
+l0
+L4 1
+VaJ>^_NY:YM:oBHBA3oLBG1
+!s100 BIb^BWOg6YBNnh]nA^Ld`3
+R6
+32
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|latch.vhd|
+Z18 !s107 latch.vhd|
+!i113 0
+R11
+Alatch_arc
+R2
+R3
+Z19 DEx4 work 7 latch_d 0 22 aJ>^_NY:YM:oBHBA3oLBG1
+!i122 24
+l19
+R13
+VT;SGQ1Cf1ej[XZzS2OkoK0
+!s100 DmeUzDcY]^:2V:c_R44XV0
+R6
+32
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 0
+R11
+Etestbench
+Z20 w1695903923
+R2
+R3
+!i122 26
+R0
+Z21 8elementosDeMemoria.vhd
+Z22 FelementosDeMemoria.vhd
+l0
+L9 1
+VA_k`]?>A1_UE?ZgW=^o^J3
+!s100 6chXg>E84=NH8Y9;LbDkR0
+R6
+32
+R7
+!i10b 1
+R8
+Z23 !s90 -reportprogress|300|elementosDeMemoria.vhd|
+Z24 !s107 elementosDeMemoria.vhd|
+!i113 0
+R11
+Atb
+R12
+R19
+R2
+R3
+DEx4 work 9 testbench 0 22 A_k`]?>A1_UE?ZgW=^o^J3
+!i122 20
+l23
+L13 43
+Vm[nho;5KJV^EjiV5J[>^T3
+!s100 o65n<C@4FkZib^IV=G@CH2
+R6
+32
+!s110 1695903648
+!i10b 1
+!s108 1695903648.000000
+R23
+R24
+!i113 0
+R11

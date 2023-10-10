@@ -38,7 +38,7 @@ begin
     exemplo_lanch: entity work.latch_d
     port map
     (
-        d   =>      dado,
+        d   =>      dado, 
         en  =>      habilita,
         q   =>      saida_latch,
         qn  =>      saida_latch_n
